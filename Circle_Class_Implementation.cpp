@@ -1,11 +1,12 @@
-
+// Solution for sec 1 - Exercise 2: circle class
+/**/
 #include <iostream>
 using namespace std;
 class Circle
 {
 public:
 int radius;
-const double pi = 3.14;
+const double pi = 3.14159;
 double getArea()
 {
 return pi * radius * radius;
