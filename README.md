@@ -4,7 +4,8 @@ Welcome to my repository! This space is dedicated to documenting my progress in 
 
 # Projects & Lab:
 * **Upcoming Projects & Concepts**:
-  (I implemented the Room class in two ways to demonstrate the transition from direct member access to proper Data Encapsulation)
+
+   (I implemented the Room class in two ways to demonstrate the transition from direct member access to proper Data Encapsulation)
   ##  Semester 2 Roadmap (Ordered by Learning Progress)
  * [x] **Data Grouping**: Utilizing 'Struct' vs 'Classes' for efficient data organization.
  * [ ] **Generics**: Creating reusable code using 'Templates'.
