@@ -1,5 +1,6 @@
 // Solution for sec 1 - Exercise 2: circle class
-/**/
+/*A program that uses a Class to calculate a circle's 
+   area, diameter, and circumference based on user input.*/
 #include <iostream>
 using namespace std;
 class Circle
