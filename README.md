@@ -8,8 +8,8 @@ Welcome to my repository! This space is dedicated to documenting my progress in 
    (I implemented the Room class in two ways to demonstrate the transition from direct member access to proper Data Encapsulation)
   ##  Semester 2 Roadmap (Ordered by Learning Progress)
  * [x] **Data Grouping**: Utilizing 'Struct' vs 'Classes' for efficient data organization.
- * [ ] **Generics**: Creating reusable code using 'Templates'.
- * [ ] **Operator Overloading**: Enhancing class functionality with custom operators.
+ * [x] **Generics**: Creating reusable code using 'Templates'.
+ * [x] **Operator Overloading**: Enhancing class functionality with custom operators.
  * [ ] **Memory Management**: Working with Pointers and dynamic memory allocation.
  * [ ] **Object Lifetime**: Implementing 'Default', 'Parameterized', and 'Copy Constructors', along with 'Destructor'.
  * [ ] **Linear Data Structures**: 
