@@ -1,4 +1,4 @@
-// Solution for Sec 2 - Exercise 12: Generic Calculator using Templates
+// Solution for Sec 2 - Exercise 1: Generic Calculator using Templates
 /* A program that demonstrates Template Classes, allowing 
    mathematical operations to work with multiple data types (int, float, etc.) */
 #include<iostream>
