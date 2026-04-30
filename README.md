@@ -13,8 +13,11 @@ Welcome to my repository! This space is dedicated to documenting my progress in 
  * [ ] **Memory Management**: Working with Pointers and dynamic memory allocation.
  * [ ] **Object Lifetime**: Implementing 'Default', 'Parameterized', and 'Copy Constructors', along with 'Destructor'.
  * [ ] **Linear Data Structures**: 
-        * Implementing 'Stack' (LIFO).
-        * Implementing 'Simple Queue' and 'Circular Queue' (FIFO).
+      * [ ] Implementing 'Stack' (LIFO).
+      * [ ] Implementing 'Simple Queue' and 'Circular Queue' (FIFO).
+      * [ ] **Linked Lists**: Implementing Singly Linked Lists and understanding node manipulation.
+ * [ ] **Non-Linear Data Structures**:
+      * [ ] **Trees**: Introduction to Binary Trees and Binary Search Trees (BST).
     
 # Tools & Technologies
 * Language: C++
