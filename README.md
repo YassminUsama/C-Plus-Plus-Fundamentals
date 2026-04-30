@@ -11,7 +11,7 @@ Welcome to my repository! This space is dedicated to documenting my progress in 
  * [x] **Generics**: Creating reusable code using 'Templates'.
  * [x] **Operator Overloading**: Enhancing class functionality with custom operators.
  * [x] **Memory Management**: Working with Pointers and dynamic memory allocation.
- * [ ] **Object Lifetime**: Implementing 'Default', 'Parameterized', and 'Copy Constructors', along with 'Destructor'.
+ * [x] **Object Lifetime**: Implementing 'Default', 'Parameterized', and 'Copy Constructors', along with 'Destructor'.
  * [ ] **Linear Data Structures**: 
       * [ ] Implementing 'Stack' (LIFO).
       * [ ] Implementing 'Simple Queue' and 'Circular Queue' (FIFO).
