@@ -10,7 +10,7 @@ Welcome to my repository! This space is dedicated to documenting my progress in 
  * [x] **Data Grouping**: Utilizing 'Struct' vs 'Classes' for efficient data organization.
  * [x] **Generics**: Creating reusable code using 'Templates'.
  * [x] **Operator Overloading**: Enhancing class functionality with custom operators.
- * [ ] **Memory Management**: Working with Pointers and dynamic memory allocation.
+ * [x] **Memory Management**: Working with Pointers and dynamic memory allocation.
  * [ ] **Object Lifetime**: Implementing 'Default', 'Parameterized', and 'Copy Constructors', along with 'Destructor'.
  * [ ] **Linear Data Structures**: 
       * [ ] Implementing 'Stack' (LIFO).
