@@ -20,7 +20,7 @@ class Stack{
     bool isFull(){
         return (top==size-1);
     }
-    void push(int value){
+    void push(T value){
         if(isFull())
         {cout<<"Stack is overflow"<<endl;}
         else{
