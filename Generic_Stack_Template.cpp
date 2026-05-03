@@ -8,7 +8,7 @@ using namespace std;
 template<class T>
 class Stack{
   private:
-  T top;
+  int top; //Index must always be int
   T arr[size];
   public:
   Stack(){
