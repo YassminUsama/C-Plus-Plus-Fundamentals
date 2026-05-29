@@ -1,6 +1,5 @@
 // Solution for Data Structures - Linked List: Insert at Beginning
-/* This implementation focuses on adding elements to the start of the list.
-   Time Complexity: O(1) - extremely efficient as it doesn't require traversal. */
+/* This implementation focuses on adding elements to the start of the list.*/
 
 #include <iostream>
 using namespace std;
@@ -9,7 +8,6 @@ struct Node {
     int data;
     Node* next;
 };
-
 class LinkedList {
 public:
     Node* head;
