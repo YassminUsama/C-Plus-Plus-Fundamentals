@@ -1,7 +1,6 @@
 // Solution for Data Structures - Linked List: Find Element
 /* This program adds a search functionality to the Singly Linked List.
-   It traverses the list to find a specific value and returns a boolean result.
-   Time Complexity for Search: O(n) */
+   It traverses the list to find a specific value and returns a boolean result.*/
 
 #include <iostream>
 using namespace std;
