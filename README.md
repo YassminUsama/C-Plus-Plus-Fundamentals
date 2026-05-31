@@ -16,8 +16,8 @@ Welcome to my repository! This space is dedicated to documenting my progress in 
       * [x] Implementing 'Stack' (LIFO).
       * [x] Implementing 'Simple Queue' and 'Circular Queue' (FIFO).
       * [x] **Linked Lists**: Implementing Singly Linked Lists and understanding node manipulation.
- * [ ] **Non-Linear Data Structures**:
-      * [ ] **Trees**: Introduction to Binary Trees and Binary Search Trees (BST).
+ * [x] **Non-Linear Data Structures**:
+      * [x] **Trees**: Introduction to Binary Trees and Binary Search Trees (BST).
     
 # Tools & Technologies
 * Language: C++
